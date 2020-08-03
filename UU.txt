@@ -11,3 +11,5 @@ Jawad#1999
 E65E2E2E-5F56-1740-99EF-84009F271E8D
 Jawad#1999
 E65E2E2E-5F56-1740-99EF-84009F271E8D
+Jawad#1999
+``[?] Please enter your HWID. You can delete it right after sending it.``
